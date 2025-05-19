@@ -26,13 +26,13 @@
     height=165
     align="center"
     alt="GitHub Stats"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabriell-qs&theme=blue-navy"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabriell-qs&theme=city_lights"
   />
   <img
     height=165
     align="center"
     alt="Top Language"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gabriell-qs&theme=blue-navy"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gabriell-qs&theme=city_lights"
   />
   <br>
   <br>
@@ -40,7 +40,7 @@
     align="center"
     width="100%"
     alt="Top Language"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabriell-qs&theme=blue-navy"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabriell-qs&theme=city_lights"
   />
  <br>
  <br>
