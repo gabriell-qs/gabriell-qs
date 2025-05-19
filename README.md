@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6fa3fa"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=F7B313FF"/>
 
 <div align="center">
   <samp>
@@ -12,7 +12,7 @@
       
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=658EFFFF&width=900&size=21&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=F7B313FF&width=900&size=21&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
 </div>
 
 <br>
@@ -26,29 +26,29 @@
     height=165
     align="center"
     alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api?username=gabriell-qs&theme=blue_navy&show_icons=true&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=gabriell-qs&theme=great-gatsby&show_icons=true&hide_border=true"
   />
   <img
     height=165
     align="center"
     alt="Top Language"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriell-qs&layout=compact&theme=blue_navy&show_icons=true&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriell-qs&layout=compact&theme=great-gatsby&show_icons=true&hide_border=true"
   />
   <br>
   <br>
-    <imga
+    <img
     align="center"
     width="100%"
     alt="Top Language"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabriell-qs&theme=transparent&color=658EFFFF"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabriell-qs&theme=great_gatsby"
   />
- <bra>
- <bra>
+ <br>
+ <br>
   <img
     heigth=154
     align="center"
     alt="Top Language"
-    src="https://github-readme-streak-stats.herokuapp.com?user=gabriell-qs&theme=blue-navy&hide_border=true&card_width=750&card_height=99)](https://git.io/streak-stats"
+    src="https://github-readme-streak-stats.herokuapp.com?user=gabriell-qs&theme=great-gatsby&hide_border=true&card_width=750&card_height=99)](https://git.io/streak-stats"
   />
   </div>
   
@@ -91,4 +91,4 @@
 <br>
 <br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6fa3fa&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F7B313FF&height=100&section=footer"/>
