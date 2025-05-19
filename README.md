@@ -40,7 +40,7 @@
     align="center"
     width="100%"
     alt="Top Language"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=transparent"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabriell-qs&theme=transparent&color=658EFFFF"
   />
  <br>
  <br>
@@ -48,7 +48,7 @@
     heigth=154
     align="center"
     alt="Top Language"
-    src="https://github-readme-streak-stats.herokuapp.com?user=gabriell-qs&theme=blue-navy&hide_border=true&card_width=850&card_height=99)](https://git.io/streak-stats"
+    src="https://github-readme-streak-stats.herokuapp.com?user=gabriell-qs&theme=blue-navy&hide_border=true&card_width=750&card_height=99)](https://git.io/streak-stats"
   />
   </div>
   
