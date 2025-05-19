@@ -26,13 +26,13 @@
     height=165
     align="center"
     alt="GitHub Stats"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabriell-qs&theme=city_lights"
+    src="https://github-readme-stats.vercel.app/api?username=gabriell-qs&theme=blue_navy&show_icons=true&hide_border=true"
   />
   <img
     height=165
     align="center"
     alt="Top Language"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gabriell-qs&theme=city_lights"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriell-qs&layout=compact&theme=blue_navy&show_icons=true&hide_border=true"
   />
   <br>
   <br>
