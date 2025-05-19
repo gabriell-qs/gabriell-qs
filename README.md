@@ -6,9 +6,11 @@
       <br>
   </samp>
 </div>
-      
-<br>
-<br>
+   <div align="center">
+  <img src="https://github.com/user-attachments/assets/36b6f8a6-8736-4544-8a0b-995e5dd417a7" width="200px"/>
+</div>
+
+
       
 
 <div align="center" width="100%">
@@ -17,7 +19,12 @@
 
 <br>
 
-
+<details align="center">  
+  <summary>
+      <samp>
+        <b>More Info</b>
+      </samp>
+  </summary>
   
   <br>
 
@@ -86,9 +93,10 @@
 
 ##
 
+</details>
 
 
-<br>
-<br>
+
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F7B313FF&height=100&section=footer"/>
