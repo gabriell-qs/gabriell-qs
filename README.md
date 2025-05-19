@@ -26,13 +26,13 @@
     height=165
     align="center"
     alt="GitHub Stats"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabriell-qs&theme=tokyonight"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabriell-qs&theme=transparent"
   />
   <img
     height=165
     align="center"
     alt="Top Language"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gabriell-qs&theme=tokyonight"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gabriell-qs&theme=transparent"
   />
   <br>
   <br>
@@ -40,7 +40,7 @@
     align="center"
     width="100%"
     alt="Top Language"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabriell-qs&theme=tokyonight"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabriell-qs&theme=transparent"
   />
  <br>
  <br>
@@ -48,7 +48,7 @@
     heigth=154
     align="center"
     alt="Top Language"
-    src="https://github-readme-streak-stats.herokuapp.com?user=gabriell-qs&theme=tokyonight&hide_border=true&card_width=850&card_height=99)](https://git.io/streak-stats"
+    src="https://github-readme-streak-stats.herokuapp.com?user=gabriell-qs&theme=transparent&hide_border=true&card_width=850&card_height=99)](https://git.io/streak-stats"
   />
   </div>
   
