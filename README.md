@@ -36,14 +36,14 @@
   />
   <br>
   <br>
-    <img
+    <imga
     align="center"
     width="100%"
     alt="Top Language"
     src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabriell-qs&theme=transparent&color=658EFFFF"
   />
- <br>
- <br>
+ <bra>
+ <bra>
   <img
     heigth=154
     align="center"
