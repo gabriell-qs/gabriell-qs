@@ -34,17 +34,11 @@
     alt="Top Language"
     src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gabriell-qs&theme=tokyonight"
   />
- <img
-    height=165
-    align="center"
-    alt="commits"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gabriell-qs&theme=tokyonight&utcOffset=8"
-  />
   <br>
   <br>
-  <img
+    <img
     align="center"
-    width="85%"
+    width="100%"
     alt="Top Language"
     src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabriell-qs&theme=tokyonight"
   />
