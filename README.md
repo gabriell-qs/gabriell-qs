@@ -38,7 +38,7 @@
   <br>
     <img
     align="center"
-    width="100%"
+    width="82%"
     alt="Top Language"
     src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabriell-qs&theme=great_gatsby"
   />
